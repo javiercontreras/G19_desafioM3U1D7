@@ -1,6 +1,6 @@
 # Desafio
 
-Repositorio [github] (https://github.com/javiercontreras/G19_desafioM3U1D7.git)
+Repositorio [github](https://github.com/javiercontreras/G19_desafioM3U1D7.git)
 
 
 #Ejecucion script imc.py peso[kg] altura[cm],  ejemplo:
