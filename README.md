@@ -3,12 +3,12 @@
 Repositorio [github](https://github.com/javiercontreras/G19_desafioM3U1D7.git)
 
 
-#Ejecucion script imc.py peso[kg] altura[cm],  ejemplo:
+# Ejecucion script imc.py peso[kg] altura[cm],  ejemplo:
 
 ```bash
 python3 imc.py 81 178  
 ```
-##Resultado
+## Resultado
 ```bash
 Los datos entregados se mantendran de forma confidencial
 ---------------------------------------------
@@ -18,13 +18,13 @@ Segun la OMS la clasificacion para su IMC es : Sobrepeso
 ```
 
 
-#Ejecucion script cachipun.py [piedra ^ papel ^ tijeras],  ejemplo:
+# Ejecucion script cachipun.py [piedra ^ papel ^ tijeras],  ejemplo:
 
 ```bash
  python3 cachipun.py piedra
 ```
 
-##Resultado
+## Resultado
 ```bash
 Tu jugaste piedra
 Computador jugó piedra
